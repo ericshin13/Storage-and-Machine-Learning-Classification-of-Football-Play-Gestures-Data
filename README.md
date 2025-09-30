@@ -1,4 +1,4 @@
-# Data Storage and Machine Learning Analysis of Football Play Gestures
+# Data Storage & Machine Learning Analysis of Football Play Gestures
 
 This project supported a fictional collaboration between entrepreneurial theater owner, Rudy, and Fighting Irish Pictures, a made-up movie studio, to create an interactive football experience in movie theater lobbies across the country. Designed to promote the fictional film Rudy: Heart of a Champion, the exhibit invited moviegoers to step into the action by “calling plays” with gestures performed on their smartphones.
 
